@@ -64,11 +64,11 @@
       39,
       40
     ],
-    "visible_layers": "fffffdd_ffffffff",
+    "visible_layers": "fffffdf_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "redline_v2.kicad_prl",
+    "filename": "redline_v3.kicad_prl",
     "version": 3
   },
   "project": {
